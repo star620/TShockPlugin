@@ -1,6 +1,6 @@
 # MusicPlayer 简易音乐播放器
 
-- 作者: Olink，Cjx适配，肝帝熙恩修改, yu大改
+- 作者: Olink，Cjx适配，肝帝熙恩修改, yu大改, 星梦优化
 - 出处: [github](https://github.com/Olink/SongPlayer) 远古仓库
 - 装上插件会在Tshock文件夹下生成一个Songs文件夹，里面放音乐文件
 - 通过读取音高文件，使用竖琴/铃铛/吉他模拟播放音乐，也就是参数：harp，bell，theaxe
